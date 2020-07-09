@@ -1,11 +1,14 @@
 ### Hi there 👋
 
-I'm ZhanGuang, is a Golang / PHP stack developer.
+I'm ZhanGuang, is a Golang / PHP full stack developer.
 
 ### My values
 
 - 🔭 Golang
 - 🌱 PHP
+- 👯 Angular
+- 🤔 Docker
+- ⚡ More...
 
 ### Contact Me
 
