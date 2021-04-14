@@ -12,7 +12,7 @@ I'm ZhanGuang, is a Golang / PHP full stack developer.
 
 ### Contact Me
 
-- Resume: https://github.com/zhan3333/resume
+- Resume (private): https://github.com/zhan3333/resume
 - Note: https://note.grianchan.com
 - Phone: MTM1MTcyMTA2MDE=
 - Email: Z3JpYW5jaGFuQGdtYWlsLmNvbQ==
