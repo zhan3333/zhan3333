@@ -1,12 +1,13 @@
 ### Hi there 👋
 
-I'm ZhanGuang, is a Golang / PHP full stack developer.
+I'm ZhanGuang, is a Golang full stack developer.
 
 ### My values
 
 - 🔭 Golang
 - 🌱 PHP
 - 👯 Angular
+- 💐 Vue
 - 🤔 Docker
 - ⚡ More...
 
