@@ -5,10 +5,9 @@ I'm ZhanGuang, is a Golang full stack developer.
 ### My values
 
 - 🔭 Golang
-- 🌱 PHP
+- 💐 Rust
 - 👯 Angular
-- 💐 Vue
-- 🤔 Docker
+- 🌱 PHP
 - ⚡ More...
 
 ### Contact Me
