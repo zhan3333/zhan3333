@@ -4,10 +4,8 @@ I'm ZhanGuang, is a Golang full stack developer.
 
 ### My values
 
-- 🔭 Golang
-- 💐 Rust
-- 👯 Angular
-- 🌱 PHP
+- 🔭 Golang、PHP、Rust
+- 👯 Angular、React、NextJS
 - ⚡ More...
 
 ### Contact Me
