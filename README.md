@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm ZhanGuang, is a Golang full stack developer.
+I'm Guang Zhan, is a Golang full stack developer.
 
 ### My values
 
